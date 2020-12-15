@@ -1,5 +1,5 @@
 ---
-layout: Layouts/layout1
+layout: layouts/layout1
 title: Autorské čtení - Z deníku investorky
 tags: clanky
 ---
